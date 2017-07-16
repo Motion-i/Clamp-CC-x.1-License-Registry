@@ -1,5 +1,11 @@
-		
-		
+			CLAMP CC x.1 LICENSE
+                      Version x.1, 16 July 2017
+
+ Copyright (C) 2017 Nicholas Caillouet, Blake Funderburg, Dylan Townsend. <https://motion-i.github.io/Clamp-CC-x.1-License-Registry/>
+ NO ONE is EVER permitted to copy and distribute verbatim copies of this 
+ license document, and changing or modifying it is NEVER allowed.
+ 
+ 
 		The Clamp CC x.1 License is a(n) Original intellectual property of Nicholas Caillouet, Dylan Townsend, and Blake Funderburg (established July 2017).
 		
 		License Holder(s) are individuals who own the Clamp CC x.1 License, and ALL rights published in the license as well as the rights of ANY WORK(s) released under the terms the Clamp CC x.1 License binds. The Clamp CC x.1 OFFICIAL License Holder(s) are listed as follows: Nicholas Caillouet, Dylan Townsend, and Blake Funderburg.
@@ -36,7 +42,7 @@
 		ANY and ALL rights of ANY and ALL WORK(s) of visual, auditory, gustatory, olfactory, somatosensory, OR of a digital nature that are registered under the Clamp CC x.1 License remain the complete intellectual property of the License Holder(s) entirely.
 		ALL right(s) to ANY licensed WORK(s) [DESPITE the nature] will be reserved to a joint custody Allotted only to OFFICIAL License Holder(s).
 		
-		ALL WORK(s) released OR registered under the Clamp CC x.1 License will be dealt with in an "ALL Rights Reserved" manner when dealing with person(s) who are not OFFICIAL License Holder(s) who retain ROOT consent immunity, as these OFFICIAL License Holder(s) retain ALL Original intellectual rights to ANY and ALL projects released under the Clamp CC x.1 License.
+		ALL WORK(s) released OR registered under the Clamp CC x.1 License will be dealt with in an "ALL Rights Reserved" manner when dealing with person(s) who ARE OFFICIAL License Holder(s) who retain ROOT consent immunity, as these OFFICIAL License Holder(s) retain ALL Original intellectual rights to ANY and ALL projects released under the Clamp CC x.1 License. Licensee(s) or unlicensed peron(s) will never retain these rights.
 		
 		Should even ONE License Holder(s) disagree with a motion, usage, registration, modification, deprecation, OR release of ANY choice(s) OR change(s) to the Clamp CC x.1 License, OR ANY and ALL WORK(s) registered under the Clamp CC x.1 License, then a compromise MUST be reached mutually among ALL OFFICIAL License Holder(s) to reach a amicable, synchronous consensus on the matter(s) OR CASE(s) in question, DESPITE the nature of said matter(s) OR CASE(s).
 		
@@ -58,3 +64,4 @@
 		Failure of person(s) to comply with ALL rights of OFFICIAL License Holder(s), and ALL reservation(s) will result in/up to legal OR civil action against the offender(s).
 		Failure to obtain permission(s) in the manner required [verbal and written consent from ALL OFFICIAL License Holder(s)] for utilizing this license in ANY way will result in civil OR legal action(s)/fee(s).
 
+		
