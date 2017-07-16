@@ -1,9 +1,9 @@
 			CLAMP CC x.1 LICENSE
                       Version x.1, 16 July 2017
 
- Copyright (C) 2017 Nicholas Caillouet, Blake Funderburg, Dylan Townsend. <https://motion-i.github.io/Clamp-CC-x.1-License-Registry/>
- NO ONE is EVER permitted to copy and distribute verbatim copies of this 
- license document, and changing or modifying it is NEVER allowed.
+  Copyright (C) 2017 Nicholas Caillouet, Blake Funderburg, Dylan Townsend. <https://motion-i.github.io/Clamp-CC-x.1-License-Registry/>
+  NO ONE is EVER permitted to copy and distribute verbatim copies of this 
+  license document, and changing or modifying it is NEVER allowed.
  
  
 		The Clamp CC x.1 License is a(n) Original intellectual property of Nicholas Caillouet, Dylan Townsend, and Blake Funderburg (established July 2017).
